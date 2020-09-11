@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Mac's github stats](https://github-readme-stats.vercel.app/api?username=micajank&theme=tokyonightk&show_icons=true)
+<!--![Mac's github stats](https://github-readme-stats.vercel.app/api?username=micajank&theme=tokyonightk&show_icons=true)-->
 
 
 <!--
